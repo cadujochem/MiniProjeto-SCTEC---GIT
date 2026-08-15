@@ -16,7 +16,7 @@ Analise de Dados com Python Turma T3
       
 
 ##  Tecnologias e Ferramentas
-* **Linguagem:** Python 3.18 
+* **Linguagem:** Python 3.12
 * **Bibliotecas principais:** Pandas, NumPy.
 
 ##  Estrutura do Repositório
