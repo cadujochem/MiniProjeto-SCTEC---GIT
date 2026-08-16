@@ -26,7 +26,7 @@ Analise de Dados com Python Turma T3
 
 
 ## Como Executar
-* Clone este Repoisitorio - Abra a pasta no VSCODE com a extensão Jupiter Notebook instalada,
+* Clone este Repositorio - Abra a pasta no VSCODE com a extensão Jupiter Notebook instalada,
 * execute as células do arquivo 'analise-base-varejo.ipynb' uma a uma inicinando pela primeira e seguindo na sequencia
 
 
